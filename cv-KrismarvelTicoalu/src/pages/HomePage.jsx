@@ -3,7 +3,7 @@ import { About } from '../components/About'
 import { Education } from '../components/Education'
 import { Skills } from '../components/Skills'
 import { Interests } from '../components/Interests'
-import { Awards } from '../components/Awards'
+import { Certifications } from '../components/Certifications'
 import { Navigation } from '../components/Navigation'
 
 export const HomePage = () => {
@@ -19,7 +19,7 @@ export const HomePage = () => {
             <Education />
             <Skills />
             <Interests />
-            <Awards />
+            <Certifications />
         </div>
     </Slide>
 </div>
