@@ -1,4 +1,5 @@
 import { Slide } from 'react-reveal'
+import { NavItem } from '../NavigationItem'
 
 export const Navigation = () => {
   return (
@@ -18,22 +19,19 @@ export const Navigation = () => {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav">
                     <li className="nav-item">
-                    <a className="nav-link js-scroll-trigger" href="#about">About</a>
+                    <NavItem title="About" href="#about" />
                     </li>
                     <li className="nav-item">
-                    <a className="nav-link js-scroll-trigger" href="#experience">Experience</a>
+                    <NavItem title="Education" href="#education" />
                     </li>
                     <li className="nav-item">
-                    <a className="nav-link js-scroll-trigger" href="#education">Education</a>
+                    <NavItem title="Skills" href="#skills" /> 
                     </li>
                     <li className="nav-item">
-                    <a className="nav-link js-scroll-trigger" href="#skills">Skills</a>
+                    <NavItem title="Interests" href="#interests" />
                     </li>
                     <li className="nav-item">
-                    <a className="nav-link js-scroll-trigger" href="#interests">Interests</a>
-                    </li>
-                    <li className="nav-item">
-                    <a className="nav-link js-scroll-trigger" href="#awards">Awards</a>
+                    <NavItem title="Awards" href="#awards" />
                     </li>
                 </ul>
                 </div>
