@@ -36,6 +36,14 @@ h1 {
 h2 {
   font-size: 3.5rem; }
 
+#alibabaCertificate {
+  max-width: 500px;
+}
+
+#jsBasicCertificate {
+  max-width: 500px;
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;

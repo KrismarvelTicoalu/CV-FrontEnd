@@ -31,7 +31,7 @@ export const Navigation = () => {
                     <NavItem title="Interests" href="#interests" />
                     </li>
                     <li className="nav-item">
-                    <NavItem title="Awards" href="#awards" />
+                    <NavItem title="Certifications" href="#certifications" />
                     </li>
                 </ul>
                 </div>

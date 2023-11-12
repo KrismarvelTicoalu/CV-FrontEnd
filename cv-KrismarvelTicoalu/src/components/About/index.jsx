@@ -11,7 +11,7 @@ export const About = () => {
                 <div className="subheading mb-5">Bitung, North Sulawesi, Indonesia · 0895-8040-40696 ·
                 <a href="mailto:avelticoalu22@gmail.com">avelticoalu22@gmail.com</a>
                 </div>
-                <p className="mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+                <p className="mb-5">I am a college student in Universitas Klabat majoring in informatics. Always going to be risk-taker.</p>
                 <ul className="list-inline list-social-icons mb-0">
                 <li className="list-inline-item">
                     <Icons logo="instagram" href="https://www.instagram.com/avelbryl/" />
