@@ -9,7 +9,7 @@ export const Navigation = () => {
             <a className="navbar-brand js-scroll-trigger" href="#page-top">
             <span className="d-block d-lg-none">Start Bootstrap</span>
             <span className="d-none d-lg-block">
-                <img className="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://i.imgur.com/VQyVwVz.jpg" alt />
+                <img className="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://i.imgur.com/PfdKFLy.png" alt />
             </span>
             </a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -31,7 +31,7 @@ export const Navigation = () => {
                     <NavItem title="Interests" href="#interests" />
                     </li>
                     <li className="nav-item">
-                    <NavItem title="Awards" href="#awards" />
+                    <NavItem title="Certifications" href="#certifications" />
                     </li>
                 </ul>
                 </div>
