@@ -6,25 +6,39 @@ export const Education = () => {
                 <h2 className="mb-5">Education</h2>
                 <div className="resume-item d-flex flex-column flex-md-row mb-5">
                 <div className="resume-content mr-auto">
-                    <h3 className="mb-0">University of Colorado Boulder</h3>
-                    <div className="subheading mb-3">Bachelor of Science</div>
-                    <div>Computer Science - Web Development Track</div>
-                    <p>GPA: 3.23</p>
+                    <h3 className="mb-0">Universitas Klabat</h3>
+                    <div className="subheading mb-3">S1 - Informatika</div>
                 </div>
                 <div className="resume-date text-md-right">
-                    <span className="text-primary">August 2006 - May 2010</span>
+                    <span className="text-primary">August 2022 - Now</span>
                 </div>
                 </div>
-                <div className="resume-item d-flex flex-column flex-md-row">
+                <div className="resume-item d-flex flex-column flex-md-row mb-5">
                 <div className="resume-content mr-auto">
-                    <h3 className="mb-0">James Buchanan High School</h3>
-                    <div className="subheading mb-3">Technology Magnet Program</div>
-                    <p>GPA: 3.56</p>
+                    <h3 className="mb-0">SMA Negeri 1 Bitung</h3>
+                    <div className="subheading mb-3">IPA</div>
                 </div>
                 <div className="resume-date text-md-right">
-                    <span className="text-primary">August 2002 - May 2006</span>
+                    <span className="text-primary">July 2018 - May 2021</span>
                 </div>
                 </div>
+                <div className="resume-item d-flex flex-column flex-md-row mb-5">
+                <div className="resume-content mr-auto">
+                    <h3 className="mb-0">SMP Negeri 1 Bitung</h3>
+                </div>
+                <div className="resume-date text-md-right">
+                    <span className="text-primary">July 2015 - April 2018</span>
+                </div>
+                </div>
+                <div className="resume-item d-flex flex-column flex-md-row mb-5">
+                <div className="resume-content mr-auto">
+                    <h3 className="mb-0">SD Katolik 4 Don Bosco Bitung</h3>
+                </div>
+                <div className="resume-date text-md-right">
+                    <span className="text-primary">July 2009 - June 2015</span>
+                </div>
+                </div>
+                
             </div>
             </section>
     </div>
